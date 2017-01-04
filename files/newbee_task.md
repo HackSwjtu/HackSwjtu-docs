@@ -69,7 +69,7 @@ utun2: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1380
 	nd6 options=201<PERFORMNUD,DAD>
 ```
 
-在这之中我们可以获取到当前的 IP 地址、网关号以及子网掩码。但是在种场景下，我们想只让计算机显示这几个量，即格式为 `XXX.XXX.XXX.XXX` 的字符串，已知 XXX 的范围是 0-255，我们应该怎样做才能从这一大段命令反馈中只显示我们需要的信息呢？
+在这之中我们可以获取到当前的 IP 地址、网关号以及子网掩码。但是在某种场景下，我们想只让计算机显示这几个量，即格式为 `XXX.XXX.XXX.XXX` 的字符串，已知 XXX 的范围是 0-255，我们应该怎样做才能从这一大段命令反馈中只显示我们需要的信息呢？
 
 ## 任务二：密码有时候看不见真的好烦
 
@@ -77,4 +77,4 @@ utun2: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1380
 
 （结果如下图所示，下图是更改的教务网登录页）
 
-![](img/newbee_task-1.png)
+![](files/img/newbee_task-1.png)
