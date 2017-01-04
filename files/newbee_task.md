@@ -77,4 +77,4 @@ utun2: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1380
 
 （结果如下图所示，下图是更改的教务网登录页）
 
-![](files/img/newbee_task-1.png)
+![](img/newbee_task-1.png)
