@@ -1,6 +1,6 @@
 # JavaScript Coding Style Guide
 ## Indents
-- Indent by 2 spaces
+- Indent type: 2 Spaces (I was intending Tabs before, but wechat doesn't offer this setting)
 ## Spaces
 - After inline commas(,)
 - After semicolons(;) in for statements
