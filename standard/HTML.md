@@ -6,7 +6,7 @@
 
 3. 编码：UTF-8 (无BOM)
 
-4. 缩进：一个制表符 ```Tab Character (\n)```
+4. 缩进：一个制表符 ```Tab Character (\t)```
 
 5. 行末：无空格，一个换行符 ```Newline Character (\n)```
 
