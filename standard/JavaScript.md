@@ -1,7 +1,6 @@
 # JavaScript Coding Style Guide
 ## Indents
 - Indent type: Tab
-- Indent size: 4
 ## Spaces
 - After inline commas(,)
 - After semicolons(;) in for statements
