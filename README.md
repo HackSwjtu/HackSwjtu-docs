@@ -4,10 +4,14 @@
 
 > *Path*: ./standard/[Coding Name].md
 
-* HTML、CSS (@llz)
-* JavaScript (@Nianyi Wang)
+* [HTML (@llz)](standard/HTML.md)
+* CSS (@llz)
+* [JavaScript (@Nianyi Wang)](standard/JavaScript.md)
 * Python (@WangZhe)
 * Java (@Chao Li)
+* PHP (@XQ-quadrant)
+* C++ (@HandsomeHow)
+* C (@HandsomeHow)
 * Ruby (@Desgard_Duan)
 * Objective (@Desgard_Duan)
 * Swift (@Desgard_Duan)
