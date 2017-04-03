@@ -24,11 +24,11 @@
 
 ## How to apply for newbee?
 
-Send the email to [xxoo@hackswjtu.com](maito:xxoo@hackswjtu.com) for application to joining us. We'll get ready to make a online interview for you, which will refer your expertise skill. glfy ！😎😎😎
+Send the email to [xxoo@hackswjtu.com](maito:xxoo@hackswjtu.com) for application to joining us. We'll get ready to make a online interview for you, which will refer your expertise skill. glfy ��??????
 
 ## Use MIT License
 
-We decide to use MIT License as our opensource license. Because **Gua** love *ruby on rails* very much. 👀
+We decide to use MIT License as our opensource license. Because **Gua** love *ruby on rails* very much. ??
 
 **When we make a new project, you need to use the MIT License!**
 
@@ -45,6 +45,5 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software. 
-
 
 

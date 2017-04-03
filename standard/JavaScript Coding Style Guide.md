@@ -10,7 +10,7 @@
 ## Newlines
 - Keep left braces({) in the same line with their keywords
 - Keep `} else {` in the same line
-- No matter what level of brackets, as long as there are more than one members, the members must be in a seperate new line
+- As long as there are more than one members in braces, the members must be in a seperate new line
 ## Naming
 - Functions: start with a lowercase letter, other words starts with uppercase letters
 - Classes: All words starts with uppercase letters
