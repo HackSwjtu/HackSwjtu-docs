@@ -1,6 +1,6 @@
 # JavaScript Coding Style Guide
 ## Indents
-- Indent type: Tab
+- Indent by 2 spaces
 ## Spaces
 - After inline commas(,)
 - After semicolons(;) in for statements
