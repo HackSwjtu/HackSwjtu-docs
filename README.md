@@ -8,7 +8,7 @@
 * CSS (@llz)
 * [JavaScript (@Nianyi Wang)](standard/JavaScript.md)
 * Python (@WangZhe)
-* Git (@Desgard_Duan)
+* [Git (@Desgard_Duan)](standard/Git.md)
 * Java (@Chao Li)
 * PHP (@XQ-quadrant)
 * C++ (@HandsomeHow)
